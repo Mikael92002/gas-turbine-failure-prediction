@@ -1,2 +1,2 @@
-# gas-turbine-failure-prediction
-A machine learning pipeline to predict Remaining Unit Life (RUL) of turbofan engines using NASA's C-MAPSS dataset. Incorporates visualizations and implements feature engineering (lag/rolling features) and compares Linear Regression, Random Forest, and XGBoost models. Achieved a NASA score of 10.60 with XGBoost.
+# Gas Turbine Risk Modeling: Feature Engineering and ML for Failure Prediction (NASA C-MAPSS Dataset)
+## Subtitle: *A replicable pipeline for estimating engine failure risk using sensor data (applicable to gas turbines like LM6000)*
