@@ -8,12 +8,7 @@
 - Multiple models: Linear Regression, Random Forest, XGBoost
 
 ## Table of Contents
-1. [Dataset] (/dataset)
-2. [Methodology] (#methodology)
-3. [Results] (#results)
-4. [Installation] (#installation)
-5. [Usage] (#usage)
-6. [Acknowledgments] (#acknowledgments)
+1. [Dataset] (#dataset)
 
 ## Dataset
 **NASA C-MAPSS FD001**: #ADD LINK HERE
