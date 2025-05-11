@@ -25,3 +25,5 @@
 ```python
 # Sample data loading
 train = pd.read_csv("data/train_FD001.txt", sep = " ", header = None)
+```
+[Sensor Degradation Plot](
