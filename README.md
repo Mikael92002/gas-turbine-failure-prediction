@@ -22,5 +22,6 @@
 - 21 sensors
 - 3 operational settings
 
-'''python
-
+```python
+# Sample data loading
+train = pd.read_csv("data/train_FD001.txt", sep = " ", header = None)
